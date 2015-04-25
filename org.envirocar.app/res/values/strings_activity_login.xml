@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="title_activity_login">Sign in or register</string>
+
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    
+    <string name="register_progress_signing_in">Registering&#8230;</string>
+    <string name="error_passwords_not_matching">The passwords do not match</string>
+    <string name="error_invalid_username">This username is too short</string>
+    
+    <string name="error_username_already_in_use">This username is already in use</string>
+    <string name="error_email_already_in_use">This Email is already in use</string>
+    <string name="error_email_not_in_beta">enviroCar is currently in a closed beta
+	phase. \nPlease contact envirocar@52north.org if you want to join the beta
+	testers or with any other inquiries.</string>
+    <string name="error_host_not_found">Unable to communicate with the server.</string>
+
+</resources>
